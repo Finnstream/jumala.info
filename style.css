@@ -1,0 +1,36 @@
+body{
+  color: #333 ;
+  text-align: center;
+  font-family: Helvetica, Arial;
+  font-size: 14px;
+  font-weight: normal;
+  line-height: 1em;
+  margin:1;
+}
+
+a {
+   text-decoration:none;
+}
+
+  .box-1 {
+    background-color: #F9F9F9;
+    color: #333;
+    border-radius: 2px;
+    border: 2px 	#B6B6B6 solid;
+    text-align: center;
+  }
+
+  .box-2 {
+    background-color: #F9F9F9;
+    color: #333;
+    border-radius: 2px;
+    border: 2px #B6B6B6 solid;
+    padding-left: : 30px;
+    text-align: center;
+  }
+html  {
+  background-color: white
+}
+header{
+  color: black;
+}
