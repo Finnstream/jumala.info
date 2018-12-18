@@ -1,5 +1,5 @@
 body{
-  color: #333 ;
+  color: white ;
   text-align: center;
   font-family: Helvetica, Arial;
   font-size: 14px;
@@ -10,29 +10,41 @@ body{
 
 a {
    text-decoration:none;
+  color: #47b797;
+}
+a:hover {
+  color: black ;
+  background-color: #cfc ;
 }
 
   .box-1 {
-    background-color: #F9F9F9;
-    color: #333;
-    border-radius: 2px;
+    background-color: #212528;
+    color: white;
+    border-radius: 7px;
     border: 2px 	#B6B6B6 solid;
     text-align: center;
   }
 
   .box-2 {
-    background-color: #F9F9F9;
-    color: #333;
-    border-radius: 2px;
+    background-color: #212528;
+    color: white;
+    border-radius: 7px;
     border: 2px #B6B6B6 solid;
     padding-left: : 30px;
     text-align: center;
   }
+  .box-5 {
+    background-color: #212528;
+    color: white;
+    border-radius: 7px;
+    border: 2px 	#B6B6B6 solid;
+    text-align: center;
+  }
 html  {
-  background-color: white
+  background-color: black
 }
 header{
-  color: black;
+  color: white;
 }
 html, body {
     height: 100%;
@@ -44,9 +56,9 @@ img {
     padding: 0;
     display: block;
     margin: 0 auto;
-    max-height: 100%;
-    max-width: 100%;
+    max-height: 70%;
+    max-width: 70%;
 }
 footer  {
-  color: white;
+  color: black;
 }
